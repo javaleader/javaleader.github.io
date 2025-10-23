@@ -1,6 +1,25 @@
 // AI工具分类数据
 const toolCategories = [
     {
+        id: 'myuse',
+        name: '常用推荐',
+        icon: '🎥',
+        tools: [
+            {
+                name: '通义千问',
+                description: 'https://www.tongyi.com/',
+                logo: '👤',
+                url: 'https://www.tongyi.com/'
+            },
+            {
+                name: '豆包',
+                description: 'https://www.doubao.com/chat/',
+                logo: '👤',
+                url: 'https://www.doubao.com/chat/'
+            }
+        ]
+    },
+    {
         id: 'video',
         name: 'AI视频工具',
         icon: '🎥',
