@@ -121,7 +121,8 @@ function updateNavigationState() {
 // 更新查看更多链接
 function updateViewMoreLink(category) {
     if (viewMore) {
-        viewMore.href = `#category-${category.id}`;
+        //viewMore.href = `#category-${category.id}`;
+        viewMore.href = 'https://app.aibase.com/zh/tools';
         viewMore.textContent = '查看更多>';
     }
 }
