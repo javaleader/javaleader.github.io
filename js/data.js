@@ -16,6 +16,42 @@ const toolCategories = [
                 description: 'https://www.doubao.com/chat/',
                 logo: '👤',
                 url: 'https://www.doubao.com/chat/'
+            },
+            {
+                name: '百度修图',
+                description: 'https://image.baidu.com',
+                logo: '👤',
+                url: 'https://image.baidu.com/search/index?showMask=1&fr=csaitab&tn=baiduimage&toolType=3&word=bdaitpzs%E7%99%BE%E5%BA%A6AI%E5%9B%BE%E7%89%87%E5%8A%A9%E6%89%8Bbdaitpzs'
+            },
+            {
+                name: 'Vercel',
+                description: 'https://vercel.com/',
+                logo: '👤',
+                url: 'https://vercel.com/'
+            },
+            {
+                name: '查询天气',
+                description: 'https://weather-app-nine-iota-93.vercel.app/',
+                logo: '👤',
+                url: 'https://weather-app-nine-iota-93.vercel.app/'
+            },
+            {
+                name: '阿里百炼',
+                description: 'https://bailian.console.aliyun.com/',
+                logo: '👤',
+                url: 'https://bailian.console.aliyun.com/'
+            },
+            {
+                name: 'AIBASE',
+                description: 'https://www.aibase.com/zh',
+                logo: '👤',
+                url: 'https://www.aibase.com/zh'
+            },
+            {
+                name: 'Github',
+                description: 'http://gitgub.com/',
+                logo: '👤',
+                url: 'http://gitgub.com/'
             }
         ]
     },
