@@ -52,6 +52,12 @@ const toolCategories = [
                 description: 'http://gitgub.com/',
                 logo: '👤',
                 url: 'http://gitgub.com/'
+            },
+            {
+                name: 'rewardscore',
+                description: '古诗词学习与积分兑换系统',
+                logo: '🤗',
+                url: 'https://weidoutao.github.io/rewardscore/'
             }
         ]
     },
